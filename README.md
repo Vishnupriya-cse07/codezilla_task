@@ -1,18 +1,20 @@
 # codezilla_task
 Task 2: Fundamental Programming -Sum of Digits — Take an integer N and print the sum of its digits, Leap Year Checker — Check if a given year is a leap year, reverse a word — using loops (no built-in functions).
 
-SUM OF DIGITS:<br>
-TO FIND THE SUM OF DIGITS:
-  EXAMPLE:
-  INPUT:IF THE INPUT 16 IS GIVEN-
-  OUTPUT: 1+6=7
+# SUM OF DIGITS:
+To find the sum of digits:
+  example:
+  input:if the input 16 is given-
+  output: 1+6=7
 
-TO CHECK THE LEAP YEAR OR NOT:<br>
-   FOR CHECKING THE LEAP YEAR,THE CONDITION SHOULD BE THE YEAR WHICH THE USER GIVEN SHOULD BE EITHER DIVISIBLE BY 4 AND 400 BUT IT SHOULD NOT BE DIVISIBLE BY 100
-   EXAMPLE: 2024 IS LEAP YEAR SINCE IT IS DIVISIBLE BY 4
-   BUT,WHEN THE INPUT IS 1900,IT IS NOT A LEAP YEAR BECAUSE IT IS DIVISIBLE BY 100.
 
-TO REVERSE THE WORD:<br>
-    WHEN THE USER(INPUT) GAVE 
+# TO CHECK THE LEAP YEAR OR NOT:
+   For checking the leap year,the condition should be the year which the user given should be either divisible by 4 and 400 but it should not be divisible by 100
+   example: 2024 is leap year since it is divisible by 4
+   but,when the input is 1900,it is not a leap year because it is divisible by 100.
+   
+
+# TO REVERSE THE WORD:
+    When the user(input) gives:
     THE STRING :HELLO
     THE OUTPUT :OLLEH
